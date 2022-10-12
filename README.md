@@ -2,9 +2,9 @@
 - 👀 I’m interested in a full time position as a software Engineer.
 - 🌱 I’m currently learning sql as well as some front end langagues like html, css, javascript.
 - 📫 you can reach me at:
- Gmail: ss4366@njit.edu
-Instagram: @j_sumit.sehrawat_
-Linkedin: www.linkedin.com/in/sumit-sehrawat1
+- Gmail: ss4366@njit.edu
+- Instagram: @j_sumit.sehrawat_
+- Linkedin: www.linkedin.com/in/sumit-sehrawat1
 
 <!---
 SumitSerawt/SumitSerawt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
